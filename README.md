@@ -7,4 +7,4 @@ Pour lancer le second programme de jeu, /program/Run.py
 
 # Crédits
 Juxiann : https://github.com/Juxiann/KuhnPoker
-
+IanSullivan : https://github.com/IanSullivan/PokerCFR
